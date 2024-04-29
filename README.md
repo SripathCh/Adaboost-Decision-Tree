@@ -16,3 +16,5 @@ This repository contains a machine learning project focused on implementing the 
 - Scikit-Learn for the AdaBoost and decision tree algorithms
 - Matplotlib for generating plots
 - Jupyter Notebook for interactive code execution and presentation
+
+**Note**: This code and repository are for showcasing my projects and are not intended for external use. 
