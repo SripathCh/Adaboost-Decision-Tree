@@ -1,4 +1,4 @@
-# AdaBoost Decision Tree
+# Enhancing Drug Activity Prediction Accuracy Using AdaBoost with Decision Trees
 
 ## Project Overview
 This repository contains a machine learning project focused on implementing the AdaBoost algorithm with decision trees as the base learners. The AdaBoost (Adaptive Boosting) algorithm is used to improve the performance of decision trees on binary classification tasks.
